@@ -1,0 +1,30 @@
+[08-Jan-2017 13:30:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/nintetat/public_html/php/contactfunctions.php on line 23
+[08-Jan-2017 13:36:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in /home/nintetat/public_html/php/contactfunctions.php on line 22
+[08-Jan-2017 13:47:58 Europe/Berlin] Hello2
+[08-Jan-2017 13:53:39 Europe/Berlin] Hello2
+[08-Jan-2017 13:53:40 Europe/Berlin] Hello3
+[08-Jan-2017 13:54:34 Europe/Berlin] Hello2
+[08-Jan-2017 13:54:34 Europe/Berlin] Hello3
+[08-Jan-2017 13:56:38 Europe/Berlin] Hello2
+[08-Jan-2017 13:56:39 Europe/Berlin] Hello3
+[08-Jan-2017 13:57:43 Europe/Berlin] Hello2
+[08-Jan-2017 13:57:43 Europe/Berlin] Hello3
+[08-Jan-2017 14:02:21 Europe/Berlin] Hello3
+[08-Jan-2017 14:03:04 Europe/Berlin] 
+[08-Jan-2017 14:03:34 Europe/Berlin] $resultcode
+[08-Jan-2017 14:04:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/nintetat/public_html/php/contactfunctions.php on line 33
+[08-Jan-2017 14:05:39 Europe/Berlin] $resultcode
+[08-Jan-2017 14:06:39 Europe/Berlin] 
+[08-Jan-2017 14:07:52 Europe/Berlin] {
+  "success": false,
+  "error-codes": [
+    "missing-input-response"
+  ]
+}
+[08-Jan-2017 14:11:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/nintetat/public_html/php/contactfunctions.php on line 21
+[08-Jan-2017 14:12:37 Europe/Berlin] Hello
+[08-Jan-2017 14:20:38 Europe/Berlin] PHP Warning:  log() expects parameter 1 to be float, string given in /home/nintetat/public_html/php/contactfunctions.php on line 26
+[08-Jan-2017 14:20:38 Europe/Berlin] PHP Warning:  log() expects parameter 1 to be float, string given in /home/nintetat/public_html/php/contactfunctions.php on line 27
+[08-Jan-2017 14:21:06 Europe/Berlin] #message
+[08-Jan-2017 14:21:06 Europe/Berlin] $email
+[08-Jan-2017 14:42:17 Europe/Berlin] $name
